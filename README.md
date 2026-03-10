@@ -19,25 +19,6 @@ I am a backend-focused engineer with a passion for building modular APIs, micros
 
 ---
 
-### 📊 Featured Projects
-
-#### [AI Monitoring Backend]([GITHUB](https://github.com/telexorg/vigil-apm-agent))
-*C# | ASP.NET Core | Semantic Kernel | MongoDB*
-- Analyzes application logs using Gemini AI to generate structured insights.
-- Implemented asynchronous log processing to ensure zero-latency impact on main services.
-
-#### [Wellbore Analysis Agent (SPE Hackathon)]([GITHUB](https://github.com/Fabito97/wellbore-data-agent))
-*Python | FastAPI | LangChain | RAG*
-- Built an LLM-powered agent with document ingestion for domain-specific reasoning.
-- Integrated multi-step workflows for high-accuracy data extraction from technical docs.
-
-#### [Tradr E-commerce MVP]([GITHUB](https://github.com/Fabito97/traidr_e-commerce))
-*C# | React | PostgreSQL | JWT*
-- Led a 6-member team to deliver a full-stack platform with secure Auth and payment workflows.
-- Focused on Clean Architecture and repository patterns for maintainability.
-
----
-
 ### 📫 Connect with Me
 - **LinkedIn:** [LINKEDIN](https://www.linkedin.com/in/fabian-muoghalu-37aa7a1a9/)
 - **Portfolio:** [Portfolio Link](https://fabian-muoghalu.vercel.app/)
