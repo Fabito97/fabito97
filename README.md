@@ -1,7 +1,7 @@
 # Hi, I'm Fabian Muoghalu 👋
 ### Fullstack Software Engineer | .NET Core • Python (AI) • TypeScript
 
-I am a backend-focused engineer with a passion for building modular APIs, microservices, and AI-integrated systems. I specialize in bridging the gap between robust enterprise architecture (C#/.NET), functional and flexible application (Node.js/TypeScript) and the rapid evolution of AI orchestration (Python/LangChain).
+I am a backend-focused engineer specializing in building modular APIs and AI-integrated systems. I bridge the gap between robust, type-safe architecture (C#/.NET) and rapid, flexible application development (Node.js/TypeScript), while leveraging Python/FastAPI for specialized AI orchestration. I focus on building maintainable and reliable systems that scale with user needs.
 
 ---
 
