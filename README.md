@@ -20,8 +20,8 @@ I am a backend-focused engineer with a passion for building modular APIs, micros
 ---
 
 ### 📫 Connect with Me
-- **LinkedIn:** [https://www.linkedin.com/in/fabian-muoghalu-37aa7a1a9/](https://www.linkedin.com/in/fabian-muoghalu-37aa7a1a9/)
-- **Portfolio:** [https://fabian-muoghalu.vercel.app/](https://fabian-muoghalu.vercel.app/)
+-  [**LinkedIn**](https://www.linkedin.com/in/fabian-muoghalu-37aa7a1a9/)
+- * [**Portfolio**](https://fabian-muoghalu.vercel.app/)
 - **Email:** [fabianmuoghalu97@gmail.com](mailto:fabianmuoghalu97@gmail.com)
 
 ---
