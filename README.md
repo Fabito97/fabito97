@@ -14,7 +14,7 @@ I am a backend-focused engineer specializing in building modular APIs and AI-int
 - **Languages:** C# (.NET 8/9), Python (FastAPI), TypeScript (Node.js/Next.js).
 - **AI & Automation:** LangChain, Semantic Kernel, RAG Pipelines, Vector DBs (Pinecone).
 - **Cloud & DevOps:** AWS (EC2), Docker, CI/CD (GitHub Actions), Nginx.
-- **Databases:** PostgreSQL (Neon), MongoDB, MSSQL, Redis.
+- **Databases:** PostgreSQL, MongoDB, MSSQL, Redis.
 - **Patterns:** CQRS, SOLID, Unit Testing (TDD), Layered Architecture.
 
 ---
