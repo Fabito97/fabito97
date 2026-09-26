@@ -7,7 +7,7 @@ I am a backend-focused engineer specializing in building modular APIs and AI-int
 
 ### What I’m Working On
 - **AI Agents:** Building multi-step orchestration pipelines using **Semantic Kernel** **LangChain** and **LangGraph**.
-- **Real-time Content Engines:** Developing a custom WYSIWYG CMS using **Next.js** and **Neon Postgres**.
+- **Real-time Content Engines:** Developing a custom WYSIWYG CMS using **Next.js** and **Postgres**.
 - **Distributed Systems:** Scaling microservices with **RabbitMQ**, **Docker**, and **Clean Architecture**.
 
 ### Tech Stack & Tools
