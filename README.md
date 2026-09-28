@@ -1,25 +1,23 @@
-# Hi, I'm Fabian Muoghalu 
-### Fullstack Software Engineer | .NET Core • Python (AI) • TypeScript
+# Hi, I'm Fabian Muoghalu
 
-I am a backend-focused engineer specializing in building modular APIs and AI-integrated systems. I bridge the gap between robust, type-safe architecture (C#/.NET) and rapid, flexible application development (Node.js/TypeScript), while leveraging Python/FastAPI for specialized AI orchestration. I focus on building maintainable and reliable systems that scale with user needs.
+### Software Engineer | Backend • AI • Full-stack
 
----
+I’m a software engineer focused on building backend systems, APIs, and AI-powered applications.
 
-### What I’m Working On
-- **AI Agents:** Building multi-step orchestration pipelines using **Semantic Kernel** **LangChain** and **LangGraph**.
-- **Real-time Content Engines:** Developing a custom WYSIWYG CMS using **Next.js** and **Postgres**.
-- **Distributed Systems:** Scaling microservices with **RabbitMQ**, **Docker**, and **Clean Architecture**.
+My primary experience is with **C#/.NET, Python, and TypeScript**, with experience across **Next.js, FastAPI, PostgreSQL, and cloud infrastructure**.
 
-### Tech Stack & Tools
-- **Languages:** C# (.NET 8/9), Python (FastAPI), TypeScript (Node.js/Next.js).
-- **AI & Automation:** LangChain, Semantic Kernel, RAG Pipelines, Vector DBs (ChromaDb).
-- **Cloud & DevOps:** AWS (EC2), Docker, CI/CD (GitHub Actions), Nginx.
-- **Databases:** PostgreSQL, MongoDB, MSSQL, Redis.
-- **Patterns:** CQRS, SOLID, Unit Testing (TDD), Layered Architecture.
+### What I Work With
 
----
+* **Backend:** C#/.NET, Python/FastAPI, Node.js
+* **Frontend:** TypeScript, React, Next.js
+* **AI:** LLM integrations, AI agents, RAG, tool calling
+* **Databases:** PostgreSQL, MongoDB, SQL Server, Redis
+* **Infrastructure:** Docker, AWS, Cloudflare, CI/CD
 
-### Connect with Me
-- [**LinkedIn**](https://www.linkedin.com/in/fabian-muoghalu-37aa7a1a9/)
-- [**Portfolio**](https://fabbenco.com/)
-- [fabianmuoghalu97@gmail.com](mailto:fabianmuoghalu97@gmail.com)
+I enjoy building practical software, learning new technologies, and working on systems that solve real problems.
+
+### Connect
+
+* [LinkedIn](https://www.linkedin.com/in/fabian-muoghalu-37aa7a1a9/)
+* [Portfolio](https://fabbenco.com)
+* [Email](mailto:fabianmuoghalu97@gmail.com)
