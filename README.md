@@ -16,7 +16,7 @@ My primary experience is with **C#/.NET, Python, and TypeScript**, with experien
 
 I enjoy building practical software, learning new technologies, and working on systems that solve real problems.
 
-### Connect
+### Let's Connect
 
 * [LinkedIn](https://www.linkedin.com/in/fabian-muoghalu-37aa7a1a9/)
 * [Portfolio](https://fabbenco.com)
