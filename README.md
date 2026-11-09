@@ -1,6 +1,6 @@
-# Hi, I'm Fabian Muoghalu
+### Hi, I'm Fabian Muoghalu
 
-### Software Engineer | Backend • AI • Full-stack
+## Software Engineer | Backend • AI • Full-stack
 
 Software engineer focused on building backend systems, APIs, and AI-powered applications.
 
