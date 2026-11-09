@@ -2,7 +2,7 @@
 
 ### Software Engineer | Backend • AI • Full-stack
 
-I’m a software engineer focused on building backend systems, APIs, and AI-powered applications.
+Software engineer focused on building backend systems, APIs, and AI-powered applications.
 
 My primary experience is with **C#/.NET, Python, and TypeScript**, with experience across **Next.js, FastAPI, PostgreSQL, and cloud infrastructure**.
 
@@ -14,7 +14,7 @@ My primary experience is with **C#/.NET, Python, and TypeScript**, with experien
 * **Databases:** PostgreSQL, MongoDB, SQL Server, Redis
 * **Infrastructure:** Docker, AWS, Cloudflare, CI/CD
 
-I enjoy building practical software, learning new technologies, and working on systems that solve real problems.
+The goal is building practical software, learning new technologies, and working on systems that solve real problems.
 
 ### Let's Connect
 
