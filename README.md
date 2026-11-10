@@ -12,7 +12,7 @@ My primary experience is with **C#/.NET, Python, and TypeScript**, with experien
 * **Databases:** PostgreSQL, MongoDB, SQL Server, Redis
 * **Infrastructure:** Docker, AWS, Cloudflare, CI/CD
 
-The goal is building practical software, learning new technologies, and working on systems that solve real problems.
+My focus is building practical software, learning new technologies, and working on systems that solve real problems.
 
 ### Let's Connect
 
