@@ -1,12 +1,10 @@
-### Hi, I'm Fabian Muoghalu
-
 ## Software Engineer | Backend • AI • Full-stack
 
-Software engineer focused on building backend systems, APIs, and AI-powered applications.
+I'm Fabian Muoghalu, a Software engineer focused on building fullstack/backend systems, APIs, and AI-powered applications.
 
 My primary experience is with **C#/.NET, Python, and TypeScript**, with experience across **Next.js, FastAPI, PostgreSQL, and cloud infrastructure**.
 
-### What I Work With
+### Core stacks and tools
 
 * **Backend:** C#/.NET, Python/FastAPI, Node.js
 * **Frontend:** TypeScript, React, Next.js
